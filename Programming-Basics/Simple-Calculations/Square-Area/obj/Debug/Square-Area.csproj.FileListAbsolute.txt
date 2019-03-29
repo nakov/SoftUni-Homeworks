@@ -1,0 +1,6 @@
+C:\Projects\Simple-Calculations\Square-Area\bin\Debug\Square-Area.exe.config
+C:\Projects\Simple-Calculations\Square-Area\bin\Debug\Square-Area.exe
+C:\Projects\Simple-Calculations\Square-Area\bin\Debug\Square-Area.pdb
+C:\Projects\Simple-Calculations\Square-Area\obj\Debug\Square-Area.csprojResolveAssemblyReference.cache
+C:\Projects\Simple-Calculations\Square-Area\obj\Debug\Square-Area.exe
+C:\Projects\Simple-Calculations\Square-Area\obj\Debug\Square-Area.pdb

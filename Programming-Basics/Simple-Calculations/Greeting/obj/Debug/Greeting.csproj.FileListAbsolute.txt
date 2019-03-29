@@ -1,0 +1,5 @@
+C:\Projects\Simple-Calculations\Greeting\bin\Debug\Greeting.exe.config
+C:\Projects\Simple-Calculations\Greeting\bin\Debug\Greeting.exe
+C:\Projects\Simple-Calculations\Greeting\bin\Debug\Greeting.pdb
+C:\Projects\Simple-Calculations\Greeting\obj\Debug\Greeting.exe
+C:\Projects\Simple-Calculations\Greeting\obj\Debug\Greeting.pdb

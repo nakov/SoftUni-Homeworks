@@ -1,0 +1,6 @@
+C:\Projects\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe.config
+C:\Projects\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe
+C:\Projects\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.pdb
+C:\Projects\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.exe
+C:\Projects\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.pdb
+C:\Projects\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.csprojResolveAssemblyReference.cache
