@@ -1,0 +1,11 @@
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\obj\Debug\netcoreapp2.1\Loops.csprojAssemblyReference.cache
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\obj\Debug\netcoreapp2.1\Loops.csproj.CoreCompileInputs.cache
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\obj\Debug\netcoreapp2.1\Loops.AssemblyInfoInputs.cache
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\obj\Debug\netcoreapp2.1\Loops.AssemblyInfo.cs
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\bin\Debug\netcoreapp2.1\Loops.deps.json
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\bin\Debug\netcoreapp2.1\Loops.runtimeconfig.json
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\bin\Debug\netcoreapp2.1\Loops.runtimeconfig.dev.json
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\bin\Debug\netcoreapp2.1\Loops.dll
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\bin\Debug\netcoreapp2.1\Loops.pdb
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\obj\Debug\netcoreapp2.1\Loops.dll
+C:\Projects\SoftUni-Homeworks\Programming-Basics\Loops\Loops\obj\Debug\netcoreapp2.1\Loops.pdb
